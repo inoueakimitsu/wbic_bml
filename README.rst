@@ -6,7 +6,7 @@ wbic_bml (under development)
 
 Python Library for statistical causal inference based on the 
 Bayesian Mixed LiNGAM (linear non-gaussian acyclic model) and
-WBIC (Watanabe Bayesian Information Criterion).
+WBIC (Widely applicable Bayesian Information Criterion).
 
 Installation
 ================
