@@ -1,6 +1,7 @@
 wbic_bml (under development)
 ========================================================
-|pyversion| |version| |license|
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
 
 Python Library for statistical causal inference based on the 
 Bayesian Mixed LiNGAM (linear non-gaussian acyclic model) and
