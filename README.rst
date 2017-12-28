@@ -2,6 +2,7 @@ wbic_bml (under development)
 ========================================================
 
 .. image:: https://img.shields.io/github/license/inoueakimitsu/wbic_bml.svg   :target: https://github.com/inoueakimitsu/wbic_bml/blob/master/LICENSE
+
 .. image:: https://img.shields.io/twitter/url/https/github.com/inoueakimitsu/wbic_bml.svg?style=social   :target: https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Finoueakimitsu%2Fwbic_bml
 
 Python Library for statistical causal inference based on the 
