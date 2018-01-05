@@ -20,6 +20,7 @@ Installation
   $ python3 setup.py install
 
 Dependencies
-============
+--------------
 
-wbic_bml is tested on 3.6 and depends on PyMC3 3.2.
+wbic_bml is tested on python 3.6 and depends on PyMC3 3.2.
+
