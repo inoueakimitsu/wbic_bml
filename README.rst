@@ -1,4 +1,4 @@
-WBIC model selection in Bayesian Mixed LiNGAM
+wbic_bml: WBIC model selection in Bayesian Mixed LiNGAM
 ========================================================
 
 .. image:: https://img.shields.io/github/license/inoueakimitsu/wbic_bml.svg
@@ -19,3 +19,7 @@ Installation
   $ cd wbic_bml
   $ python3 setup.py install
 
+Dependencies
+============
+
+wbic_bml is tested on 3.6 and depends on PyMC3 3.2.
