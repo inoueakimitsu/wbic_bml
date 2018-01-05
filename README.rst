@@ -1,4 +1,4 @@
-wbic_bml (under development)
+WBIC model selection in Bayesian Mixed LiNGAM
 ========================================================
 
 .. image:: https://img.shields.io/github/license/inoueakimitsu/wbic_bml.svg
@@ -12,7 +12,7 @@ Bayesian Mixed LiNGAM (linear non-gaussian acyclic model) and
 WBIC (Widely applicable Bayesian Information Criterion).
 
 Installation
-================
+-----------------
 ::
 
   $ git clone https://github.com/inoueakimitsu/wbic_bml.git
