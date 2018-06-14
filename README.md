@@ -1,5 +1,7 @@
 # wbic_bml
 
+[![GitHub license](https://img.shields.io/github/license/inoueakimitsu/wbic_bml.svg)](https://github.com/inoueakimitsu/wbic_bml/blob/master/LICENSE)
+
 **WBIC model selection in Bayesian Mixed LiNGAM**  
 This program is under development.
 
